@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationServicePhoneBook</string>
+    <string name="hello_fragment_A">Здравствуйте! Я - фрагмент А</string>
+    <string name="hello_fragment_B">Здравствуйте! Я - фрагмент В</string>
+    <string name="hello_fragment_C">Здравствуйте! Я - фрагмент С</string>
+    <string name="go_to_A_button">-> к фрагменту A</string>
+    <string name="go_to_B_button">-> к фрагменту B</string>
+    <string name="go_to_C_button">-> к фрагменту C</string>
+    <string name="service_start_button">Запустить сервис</string>
+    <string name="service_stop_button">Остановить сервис</string>
+    <string name="contact_list_button">Список контактов</string>
+
+    <string name="text_in_view_ID">ID</string>
+    <string name="text_in_view_Contact_name">Контактное лицо</string>
+    <string name="text_in_view_Phone_Number">Номер телефона</string>
+
+</resources>
